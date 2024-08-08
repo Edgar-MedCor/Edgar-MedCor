@@ -2,62 +2,78 @@
   <img src="https://github.com/edgarmedrano/edgarmedrano/raw/master/cover-edgar.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Edgar Medrano</h1>
-<h3 align="center">Software Engineering Student | Full-Stack Developer | Data Science Enthusiast</h3>
-
+<h1 align="center">Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h3 align="center">I'm <span style="color:#f39c12;">Edgar Medrano</span> – A Passionate Software Development Student</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/edgarmedrano/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Edgar Medrano" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/edgar.medrano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Edgar Medrano" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/edgarmedrano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Edgar Medrano" height="30" width="40" /></a>
-  <a href="https://leetcode.com/edgarmedrano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Edgar Medrano" height="30" width="40" /></a>
-  <a href="mailto:edgarmedrano@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/edgarmedrano/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/edgarmedrano" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:edgarmedrano@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 <p align="center">
   <em>
-    I'm Edgar Medrano, a <b>Software Engineering</b> student passionate about <b>Full-Stack Development</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and <b>Data Science</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;. <br>
-    I am driven by the desire to <b>learn</b> and <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">, constantly seeking opportunities to <b>improve</b> myself and make a positive impact in the tech world.
+    🚀 I'm a <b>Multiplatform Software Development</b> student with a deep love for <b>Full-Stack Development</b> and <b>Data Science</b>. <br>
+    I'm on a journey to turn my ideas into impactful, scalable, and beautiful software solutions. My coding mantra: <b>"Code, Create, Conquer!"</b> 💪
   </em> 
-  <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Always Learning, Always Hustling!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <br><br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning by Doing, Innovating by Dreaming!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edgarmedrano&label=Profile%20views&color=0e75b6&style=flat" alt="edgarmedrano" /> </p>
-<img align="right" width=300px alt="Coding" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=edgarmedrano&label=Profile%20Views&color=blue&style=flat-square" alt="edgarmedrano" />
+</p>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**A Little More About Me...**
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
 
-✔ Pronouns: ***He/Him*** or ***CoderExtraordinaire***😉 <br>
-✔ I’m currently working on **UltraInventario** <br>
-✔ I’m learning **ReactJS**, **NodeJS**, and **Data Analysis** <br>
-✔ I’m looking to contribute to **Open Source Projects** <br>
-✔ I’m seeking mentorship in **AI and Machine Learning** <br>
-✔ Ask me about anything tech-related, I'd love to help! 😉<br>
-✔ Fun fact: *I often dream in code!*<br><br><br><br>
+### About Me 🚀
+- 🌱 I’m currently learning **ReactJS**, **NodeJS**, and **Machine Learning**.
+- 🎯 My goal is to become a **Full-Stack Developer** and **AI Enthusiast**.
+- 💼 I’m working on **UltraInventario**, a dynamic inventory management system.
+- 💬 Ask me anything tech-related, I’m happy to help!
+- 📚 Fun Fact: I’m a **problem-solver** who sees challenges as opportunities to grow. 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Languages & Tools I Use...**
+### Skills & Tools 💻
+
 <p align="left">
-  
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
 </p>
+
 <hr>
+
+### GitHub Stats 📊
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edgarmedrano&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarmedrano&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+<hr>
+
+### Let's Connect! 🤝
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abkhOpu0NwenH3O/giphy.gif" width="50" alt="Let's Connect!"/>
+  <i><b>"Great things are done by a series of small things brought together."</b></i> – Vincent Van Gogh 🌟
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edgarmedrano&show_icons=true&locale=en&layout=compact" alt="edgarmedrano" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edgarmedrano&show_icons=true&locale=en" alt="edgarmedrano" width="410" /></p>
-
-<hr>
+  <a href="https://github.com/edgarmedrano/">
+    <img src="https://img.shields.io/github/followers/edgarmedrano?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
