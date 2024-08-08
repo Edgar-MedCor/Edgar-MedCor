@@ -5,13 +5,13 @@
 <h1 align="center">Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 <h3 align="center">I'm <span style="color:#f39c12;">Edgar Medrano</span> – A Passionate Software Development Student</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/edgarmedrano/" target="blank">
+  <a href="https:https://www.linkedin.com/in/edgar-medrano-07a5a7250/" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/edgarmedrano" target="blank">
+  <a href="https://github.com/edgar-MedCor" target="blank">
     <img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:edgarmedrano@gmail.com">
+  <a href="mailto:edgarmen159@gmail.com">
     <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/edgarmedrano/">
+  <a href="https://github.com/edgar-medcor/">
     <img src="https://img.shields.io/github/followers/edgarmedrano?label=Follow&style=social" alt="GitHub Followers" />
   </a>
 </p>
