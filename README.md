@@ -5,7 +5,7 @@
 <h1 align="center">Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 <h3 align="center">I'm <span style="color:#f39c12;">Edgar Medrano</span> – A Passionate Software Development Student</h3>
 <p align="center">
-  <a href="https:https://www.linkedin.com/in/edgar-medrano-07a5a7250/" target="blank">
+  <a href="linkedin.com/in/edgar-medrano-07a5a7250" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/edgar-MedCor" target="blank">
