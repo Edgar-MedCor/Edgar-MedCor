@@ -32,7 +32,6 @@
 ✔ I’m learning **ReactJS**, **NodeJS**, and **Data Analysis** <br>
 ✔ I’m looking to contribute to **Open Source Projects** <br>
 ✔ I’m seeking mentorship in **AI and Machine Learning** <br>
-✔ I write code on [LeetCode](https://leetcode.com/edgarmedrano) <br>
 ✔ Ask me about anything tech-related, I'd love to help! 😉<br>
 ✔ Fun fact: *I often dream in code!*<br><br><br><br>
 
