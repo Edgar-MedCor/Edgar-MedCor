@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Edgar-MedCor/Edgar-MedCor/blob/main/Captura20de20pantalla202024-08-1320095857.png" height="200"/>
+  <img src="../Captura de pantalla 2024-08-13 095857.png" height="200"/>
 </p>
 
 <hr>
