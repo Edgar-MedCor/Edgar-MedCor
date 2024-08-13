@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/Edgar-MedCor/Edgar-MedCor/blob/main/Captura20de20pantalla202024-08-1320095857.png" height="200"/>
 </p>
+
 <hr>
 <h1 align="center">Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 <h3 align="center">I'm <span style="color:#f39c12;">Edgar Medrano</span> – A Passionate Software Development Student</h3>
