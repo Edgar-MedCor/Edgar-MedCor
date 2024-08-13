@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="../Captura de pantalla 2024-08-13 095857.png" height="200"/>
+  <img src="https://github.com/Edgar-MedCor/Edgar-MedCor/blob/main/Captura20de20pantalla202024-08-1320095857.png" height="200"/>
 </p>
+
 
 <hr>
 <h1 align="center">Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
