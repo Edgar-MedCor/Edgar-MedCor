@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/edgarmedrano/edgarmedrano/raw/master/cover-edgar.png" height="200"/>
+  <img src="[https://github.com/edgarmedrano/edgarmedrano/raw/master/captura.png](https://github.com/Edgar-MedCor/Edgar-MedCor/blob/main/Captura%20de%20pantalla%202024-08-13%20095857.png)" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
