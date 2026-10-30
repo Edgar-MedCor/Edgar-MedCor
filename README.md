@@ -1,83 +1,46 @@
-<p align="center">
-  <img src="https://github.com/Edgar-MedCor/Edgar-MedCor/blob/main/Captura%20de%20pantalla%202024-08-13%20095857.png?raw=true" height="200"/>
-</p>
+# Hi, I'm Edgar Medrano 
 
+**Full Stack Developer** · React · Node.js · PostgreSQL · Cancún, México 🇲🇽 (UTC-5)
 
-<hr>
-<h1 align="center">Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-<h3 align="center">I'm <span style="color:#f39c12;">Edgar Medrano</span> – A Passionate Software Development Student</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/edgar-medrano-07a5a7250/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/edgar-MedCor" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:edgarmen159@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+I build production web systems for tourism, real estate and e-commerce businesses. At **Neo eMarketing** I've shipped **4 full-stack systems to production** — from backend architecture and auth to the UI clients use every day.
 
-<p align="center">
-  <em>
-    🚀 I'm a <b>Multiplatform Software Development</b> student with a deep love for <b>Full-Stack Development</b> and <b>Data Science</b>. <br>
-    I'm on a journey to turn my ideas into impactful, scalable, and beautiful software solutions. My coding mantra: <b>"Code, Create, Conquer!"</b> 💪
-  </em> 
-  <br><br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning by Doing, Innovating by Dreaming!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-</p>
+Open to **remote** Full Stack / Backend roles.
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=edgarmedrano&label=Profile%20Views&color=blue&style=flat-square" alt="edgarmedrano" />
-</p>
+---
 
-<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
+## What I've built
 
-### About Me 🚀
-- 🌱 I’m currently learning **ReactJS**, **NodeJS**, and **Machine Learning**.
-- 🎯 My goal is to become a **Full-Stack Developer** and **AI Enthusiast**.
-- 💼 I’m working on **UltraInventario**, a dynamic inventory management system.
-- 💬 Ask me anything tech-related, I’m happy to help!
-- 📚 Fun Fact: I’m a **problem-solver** who sees challenges as opportunities to grow. 
+**Operations backend for a Destination Management Company (DMC)**  
+Modular monolith in Node.js / Express / PostgreSQL. JWT auth with role-based access control across 5 roles, a reusable approvals engine, an append-only audit log and a pluggable notifications layer.
 
-### Skills & Tools 💻
+**Airport–hotel shuttle transfer platform**  
+Dual-model platform: direct operator bookings + a marketplace for independent drivers and transport providers. React / Vite / Tailwind frontend, Node.js / Express / PostgreSQL API.
 
-<p align="left">
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+**AI blog generator for WordPress** — [`ApiBlogGenerate`](https://github.com/Edgar-MedCor/ApiBlogGenerate)  
+Server that generates and publishes blog posts to WordPress automatically using LLMs.
 
-</p>
+**WooCommerce product importer** — [`woocommerce-products-import`](https://github.com/Edgar-MedCor/woocomerceProductsImport)  
+API that bulk-imports catalogs into WooCommerce, including variable products (sizes/colors) with SKU preservation.
 
-<hr>
+**RAG API** — [`Rag_Api`](https://github.com/Edgar-MedCor/Rag_Api)  
+Retrieval-Augmented Generation service in Python for answering questions over custom documents.
 
-### GitHub Stats 📊
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edgarmedrano&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarmedrano&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
+> Most of my production work is client code and lives in private repositories. Happy to walk through architecture and code in a call.
 
-<hr>
+---
 
-### Let's Connect! 🤝
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abkhOpu0NwenH3O/giphy.gif" width="50" alt="Let's Connect!"/>
-  <i><b>"Great things are done by a series of small things brought together."</b></i> – Vincent Van Gogh 🌟
-</p>
+## Tech stack
 
-<p align="center">
-  <a href="https://github.com/edgar-medcor/">
-    <img src="https://img.shields.io/github/followers/edgarmedrano?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-</p>
+**Frontend:** React, TypeScript, Vite, Tailwind CSS  
+**Backend:** Node.js, Express, REST APIs, JWT / RBAC  
+**Data:** PostgreSQL  
+**Also:** Python, WordPress / WooCommerce, Git, Railway
 
-<p align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-</p>
+[![Stack](https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,nodejs,express,postgres,python,wordpress,git)](https://skillicons.dev)
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/]()
+- Email: [edgarmen159@gmail.com](mailto:edgarmen159@gmail.com)
